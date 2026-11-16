@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\46966977896\\Desktop\\PlotMusic\\PlotMusic.WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5489073-5A6D-CE2B-EFF9-67432A1892DC}|PlotMusic.WebAPI.csproj|c:\\users\\46966977896\\desktop\\plotmusic\\plotmusic.webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5489073-5A6D-CE2B-EFF9-67432A1892DC}|PlotMusic.WebAPI.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5489073-5A6D-CE2B-EFF9-67432A1892DC}|PlotMusic.WebAPI.csproj|c:\\users\\46966977896\\desktop\\plotmusic\\plotmusic.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5489073-5A6D-CE2B-EFF9-67432A1892DC}|PlotMusic.WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5489073-5A6D-CE2B-EFF9-67432A1892DC}|PlotMusic.WebAPI.csproj|c:\\users\\46966977896\\desktop\\plotmusic\\plotmusic.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5489073-5A6D-CE2B-EFF9-67432A1892DC}|PlotMusic.WebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5489073-5A6D-CE2B-EFF9-67432A1892DC}|PlotMusic.WebAPI.csproj|c:\\users\\46966977896\\desktop\\plotmusic\\plotmusic.webapi\\context\\plotmusicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5489073-5A6D-CE2B-EFF9-67432A1892DC}|PlotMusic.WebAPI.csproj|solutionrelative:context\\plotmusicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5489073-5A6D-CE2B-EFF9-67432A1892DC}|PlotMusic.WebAPI.csproj|c:\\users\\46966977896\\desktop\\plotmusic\\plotmusic.webapi\\models\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5489073-5A6D-CE2B-EFF9-67432A1892DC}|PlotMusic.WebAPI.csproj|solutionrelative:models\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5489073-5A6D-CE2B-EFF9-67432A1892DC}|PlotMusic.WebAPI.csproj|c:\\users\\46966977896\\desktop\\plotmusic\\plotmusic.webapi\\models\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5489073-5A6D-CE2B-EFF9-67432A1892DC}|PlotMusic.WebAPI.csproj|solutionrelative:models\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5489073-5A6D-CE2B-EFF9-67432A1892DC}|PlotMusic.WebAPI.csproj|c:\\users\\46966977896\\desktop\\plotmusic\\plotmusic.webapi\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5489073-5A6D-CE2B-EFF9-67432A1892DC}|PlotMusic.WebAPI.csproj|solutionrelative:models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5489073-5A6D-CE2B-EFF9-67432A1892DC}|PlotMusic.WebAPI.csproj|c:\\users\\46966977896\\desktop\\plotmusic\\plotmusic.webapi\\models\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5489073-5A6D-CE2B-EFF9-67432A1892DC}|PlotMusic.WebAPI.csproj|solutionrelative:models\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5489073-5A6D-CE2B-EFF9-67432A1892DC}|PlotMusic.WebAPI.csproj|c:\\users\\46966977896\\desktop\\plotmusic\\plotmusic.webapi\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5489073-5A6D-CE2B-EFF9-67432A1892DC}|PlotMusic.WebAPI.csproj|solutionrelative:models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 310,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\46966977896\\Desktop\\PlotMusic\\PlotMusic.WebAPI\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\46966977896\\Desktop\\PlotMusic\\PlotMusic.WebAPI\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:43:16.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\46966977896\\Desktop\\PlotMusic\\PlotMusic.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\46966977896\\Desktop\\PlotMusic\\PlotMusic.WebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-16T15:00:59.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\46966977896\\Desktop\\PlotMusic\\PlotMusic.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\46966977896\\Desktop\\PlotMusic\\PlotMusic.WebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:51:57.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlotMusicDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\46966977896\\Desktop\\PlotMusic\\PlotMusic.WebAPI\\Context\\PlotMusicDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\PlotMusicDbContext.cs",
+              "ToolTip": "C:\\Users\\46966977896\\Desktop\\PlotMusic\\PlotMusic.WebAPI\\Context\\PlotMusicDbContext.cs",
+              "RelativeToolTip": "Context\\PlotMusicDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:42:59.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Perfil.cs",
+              "DocumentMoniker": "C:\\Users\\46966977896\\Desktop\\PlotMusic\\PlotMusic.WebAPI\\Models\\Perfil.cs",
+              "RelativeDocumentMoniker": "Models\\Perfil.cs",
+              "ToolTip": "C:\\Users\\46966977896\\Desktop\\PlotMusic\\PlotMusic.WebAPI\\Models\\Perfil.cs",
+              "RelativeToolTip": "Models\\Perfil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:42:26.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\46966977896\\Desktop\\PlotMusic\\PlotMusic.WebAPI\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "Models\\Album.cs",
+              "ToolTip": "C:\\Users\\46966977896\\Desktop\\PlotMusic\\PlotMusic.WebAPI\\Models\\Album.cs",
+              "RelativeToolTip": "Models\\Album.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T13:56:32.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Artista.cs",
+              "DocumentMoniker": "C:\\Users\\46966977896\\Desktop\\PlotMusic\\PlotMusic.WebAPI\\Models\\Artista.cs",
+              "RelativeDocumentMoniker": "Models\\Artista.cs",
+              "ToolTip": "C:\\Users\\46966977896\\Desktop\\PlotMusic\\PlotMusic.WebAPI\\Models\\Artista.cs",
+              "RelativeToolTip": "Models\\Artista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T13:56:31.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\46966977896\\Desktop\\PlotMusic\\PlotMusic.WebAPI\\Models\\Genero.cs",
+              "RelativeDocumentMoniker": "Models\\Genero.cs",
+              "ToolTip": "C:\\Users\\46966977896\\Desktop\\PlotMusic\\PlotMusic.WebAPI\\Models\\Genero.cs",
+              "RelativeToolTip": "Models\\Genero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T13:56:29.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\46966977896\\Desktop\\PlotMusic\\PlotMusic.WebAPI\\Models\\Musica.cs",
+              "RelativeDocumentMoniker": "Models\\Musica.cs",
+              "ToolTip": "C:\\Users\\46966977896\\Desktop\\PlotMusic\\PlotMusic.WebAPI\\Models\\Musica.cs",
+              "RelativeToolTip": "Models\\Musica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T13:55:28.296Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
